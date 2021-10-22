@@ -1,7 +1,7 @@
 # Circle-Square-over-DOM-react-js
 
 
-import React, {usestate} fraom "react"; 7.4K (gzipped: 3K)
+import React, {usestate} from "react"; 7.4K (gzipped: 3K)
 
 import "/.App.css";
 
